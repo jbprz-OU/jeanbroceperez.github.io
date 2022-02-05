@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Geospatial Analysis
 
-[Geospatial Analysis](/sample_page)
+[Val Verde County Study](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
