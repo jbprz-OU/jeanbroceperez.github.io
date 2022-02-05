@@ -6,7 +6,7 @@
 
 [Val Verde County Study](https://www.twdb.texas.gov/groundwater/special_projects/valverde/index.asp)
 <img src="images/ValVerdeCo_GeoMap.jpg"/>
-<img src="ValVerdeCo_SoilMap.jpg"/>
+<img src="images/ValVerdeCo_SoilMap.jpg"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
