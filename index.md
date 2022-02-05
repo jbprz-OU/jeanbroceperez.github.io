@@ -4,7 +4,7 @@
 
 ### Geospatial Analysis
 
-[Val Verde County Study](/sample_page)
+[Val Verde County Study](https://www.twdb.texas.gov/groundwater/special_projects/valverde/index.asp)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
