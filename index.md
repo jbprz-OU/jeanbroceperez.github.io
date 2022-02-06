@@ -4,7 +4,10 @@
 
 ### Geospatial Analysis
 
-[Val Verde County Study](https://www.twdb.texas.gov/groundwater/special_projects/valverde/index.asp)
+[Overview of
+Groundwater Conditions in
+Val Verde County,
+Texas, December 2018](https://www.twdb.texas.gov/groundwater/special_projects/valverde/index.asp)
 <img src="images/ValVerdeCo_GeoMap.jpg"/>
 <img src="images/ValVerdeCo_SoilMap.jpg"/>
 
