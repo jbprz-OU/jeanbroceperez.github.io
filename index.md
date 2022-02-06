@@ -7,13 +7,13 @@
 [Overview of
 Groundwater Conditions in
 Val Verde County,
-Texas, December 2018](https://www.twdb.texas.gov/groundwater/special_projects/valverde/index.asp)
+Texas, Texas Water Development Board. December 2018](https://www.twdb.texas.gov/groundwater/special_projects/valverde/index.asp)
 <img src="images/ValVerdeCo_GeoMap.jpg"/>
 <img src="images/ValVerdeCo_SoilMap.jpg"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Austin Pediatric ICU Study, University of Oklahoma. December 2021](https://storymaps.arcgis.com/stories/9938c4c9cac14ab8a85c5ce09f297829)
+<img src="ICUStudy_ProposedSite.jpg"/>
 
 ---
 [Project 3 Title](http://example.com/)
