@@ -13,7 +13,7 @@ Texas, Texas Water Development Board. December 2018](https://www.twdb.texas.gov/
 
 ---
 [Austin Pediatric ICU Study, University of Oklahoma. December 2021](https://storymaps.arcgis.com/stories/9938c4c9cac14ab8a85c5ce09f297829)
-<img src="ICUStudy_ProposedSite.jpg"/>
+<img src="images/ICUStudy_ProposedSite.jpg"/>
 
 ---
 [Project 3 Title](http://example.com/)
