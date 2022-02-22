@@ -1,5 +1,6 @@
 ## Portfolio
 
+### Geospatial Analysis
 ---
 [Overview of Groundwater Conditions in Val Verde County,
 Texas, Texas Water Development Board. December 2018](https://www.twdb.texas.gov/groundwater/special_projects/valverde/index.asp)
@@ -16,10 +17,6 @@ Texas, Texas Water Development Board. December 2018](https://www.twdb.texas.gov/
 
 - [Lipan Aquifer: Structure and Brackish Groundwater, Texas Water Development Board Co-Author, January 2018](https://www.twdb.texas.gov/groundwater/bracs/studies/Lipan/index.asp)
 <img src="images/Lipan_Report.JPG"/>
----
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
