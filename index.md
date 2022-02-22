@@ -15,8 +15,14 @@ Texas, Texas Water Development Board. December 2018](https://www.twdb.texas.gov/
 
 ### Formation Evaluation
 
-- [Lipan Aquifer: Structure and Brackish Groundwater, Texas Water Development Board Co-Author, January 2018](https://www.twdb.texas.gov/groundwater/bracs/studies/Lipan/index.asp)
+- [Lipan Aquifer: Structure and Brackish Groundwater, Texas Water Development Board, Co-Author, January 2018](https://www.twdb.texas.gov/groundwater/bracs/studies/Lipan/index.asp)
 <img src="images/Lipan_Report.JPG"/>
+
+---
+
+### Groundwater Use Analysis
+
+- [Exempt Groundwater Use Report, Texas Water Development Board, August 2020](https://github.com/jbprz-OU/jeanbroceperez.github.io/raw/master/pdf/TWDB_EXEMPTGWUSE_REPORT.pdf)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
