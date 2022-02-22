@@ -17,7 +17,7 @@ Texas, Texas Water Development Board. December 2018](https://www.twdb.texas.gov/
 
 ---
 [Lipan Aquifer: Structure and Brackish Groundwater](https://www.twdb.texas.gov/groundwater/bracs/studies/Lipan/index.asp)
-<img src="images/Lipan_Report.jpg"/>
+<img src="images/Lipan_Report.JPG"/>
 
 ---
 
