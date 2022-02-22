@@ -16,7 +16,7 @@ Texas, Texas Water Development Board. December 2018](https://www.twdb.texas.gov/
 <img src="images/ICUStudy_ProposedSite.jpg"/>
 
 ---
-[Lipan Aquifer: Structure and Brackish Groundwater](https://www.twdb.texas.gov/groundwater/bracs/studies/Lipan/index.asp)
+[Lipan Aquifer: Structure and Brackish Groundwater, Co-Author](https://www.twdb.texas.gov/groundwater/bracs/studies/Lipan/index.asp)
 <img src="images/Lipan_Report.JPG"/>
 
 ---
