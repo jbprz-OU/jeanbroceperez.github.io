@@ -1,31 +1,21 @@
 ## Portfolio
 
 ---
-
-### Geospatial Analysis
-[Lipan Aquifer: Structure and Brackish Groundwater, Texas Water Development Board Co-Author, January 2018](https://www.twdb.texas.gov/groundwater/bracs/studies/Lipan/index.asp)
-<img src="images/Lipan_Report.JPG"/>
-
----
 [Overview of Groundwater Conditions in Val Verde County,
 Texas, Texas Water Development Board. December 2018](https://www.twdb.texas.gov/groundwater/special_projects/valverde/index.asp)
-<img src="images/ValVerdeCo_Report.jpg"/>
+<img src="images/ValVerdeCo_Report.JPG"/>
 <img src="images/ValVerdeCo_GeoMap.jpg"/>
 
 ---
 [Austin Pediatric ICU Study, University of Oklahoma. December 2021](https://storymaps.arcgis.com/stories/9938c4c9cac14ab8a85c5ce09f297829)
 <img src="images/ICUStudy_ProposedSite.jpg"/>
 
+---
 
+### Formation Evaluation
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+- [Lipan Aquifer: Structure and Brackish Groundwater, Texas Water Development Board Co-Author, January 2018](https://www.twdb.texas.gov/groundwater/bracs/studies/Lipan/index.asp)
+<img src="images/Lipan_Report.JPG"/>
 ---
 
 
