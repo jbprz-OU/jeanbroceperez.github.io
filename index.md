@@ -5,7 +5,7 @@
 [Overview of Groundwater Conditions in Val Verde County,
 Texas, Texas Water Development Board. December 2018](https://www.twdb.texas.gov/groundwater/special_projects/valverde/index.asp)
 [![](images/ValVerdeCo_Report.JPG)](https://www.twdb.texas.gov/groundwater/special_projects/valverde/docs/Groundwater-Resources-of-Val-Verde-County-86th-legislature.pdf)
-"Click the image below to see a copy of a selection of shapefiles from this report in ArcGIS Online"
+<p style="font-size:11px">Click the image below to see a copy of a selection of shapefiles from this report in ArcGIS Online
 [![](images/ValVerdeCo_GeoMap.jpg)](https://uok.maps.arcgis.com/apps/mapviewer/index.html?webmap=15a06df44a54431f9b7c7bdd35aee591)
 
 ---
