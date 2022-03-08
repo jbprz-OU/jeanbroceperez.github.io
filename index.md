@@ -14,8 +14,9 @@ Texas, Texas Water Development Board. December 2018](https://www.twdb.texas.gov/
 [Austin Pediatric ICU Study, University of Oklahoma. December 2021](https://storymaps.arcgis.com/stories/9938c4c9cac14ab8a85c5ce09f297829)
 <img src="images/ICUStudy_ProposedSite.jpg"/>
 
-[Google Earth Engine Application: Short Wave Infrared (SWIR) Viewer for Wildfire Scarring in Southern California, University of Oklahoma. July 2021]
+Google Earth Engine Application: Short Wave Infrared (SWIR) View of Wildfire Scarring in Southern California, University of Oklahoma. July 2021]
 [![](images/Earth_Engine_App.png)](https://jeanbroce.users.earthengine.app/view/firesapp)
+<p style="font-size:9px"> Click the image above to use the application </p>
 
 ---
 
