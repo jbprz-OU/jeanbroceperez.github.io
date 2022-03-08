@@ -14,7 +14,8 @@ Texas, Texas Water Development Board. December 2018](https://www.twdb.texas.gov/
 [Austin Pediatric ICU Study, University of Oklahoma. December 2021](https://storymaps.arcgis.com/stories/9938c4c9cac14ab8a85c5ce09f297829)
 <img src="images/ICUStudy_ProposedSite.jpg"/>
 
-[Google Earth Engine Application: Fires in Myanmar](https://jeanbroce.users.earthengine.app/view/firesapp)
+<img src="images/Earth_Engine_App.png"/>
+[Google Earth Engine Application: Fires in Southern California](https://jeanbroce.users.earthengine.app/view/firesapp)
 
 ---
 
